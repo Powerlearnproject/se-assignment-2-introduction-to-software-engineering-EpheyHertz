@@ -16,10 +16,10 @@ What is software engineering, and how does it differ from traditional programmin
 Software engineering is a systematic approach to designing, developing, and maintaining software and other activities, including requirements analysis, design, coding, testing, deployment, and ongoing maintenance.  It differs from traditional programming in :
 
 
-* Focus on Process: Software engineering emphasizes a structured and disciplined process for software development, involving well-defined phases, methodologies, and tools. Traditional programming often involves a more ad-hoc approach.
-* Engineering Principles: Software engineering applies engineering principles to software development, including requirements analysis, design patterns, quality assurance, and risk management. Traditional programming may not have the same level of formalization.
-* Collaboration and Teams: Software engineering projects often involve large teams of developers, designers, and testers, requiring strong communication and collaboration. Traditional programming is often a solitary activity.
-* Maintainability and Scalability: Software engineering aims to create software that is easily maintainable, scalable, and adaptable to evolving needs. Traditional programming may focus on immediate functionality without considering long-term maintenance.
+Focus on Process: Software engineering emphasizes a structured and disciplined process for software development, involving well-defined phases, methodologies, and tools. Traditional programming often involves a more ad-hoc approach.
+ Engineering Principles: Software engineering applies engineering principles to software development, including requirements analysis, design patterns, quality assurance, and risk management. Traditional programming may not have the same level of formalization.
+ Collaboration and Teams: Software engineering projects often involve large teams of developers, designers, and testers, requiring strong communication and collaboration. Traditional programming is often a solitary activity.
+ Maintainability and Scalability: Software engineering aims to create software that is easily maintainable, scalable, and adaptable to evolving needs. Traditional programming may focus on immediate functionality without considering long-term maintenance.
 
 
 Software Development Life Cycle (SDLC):
